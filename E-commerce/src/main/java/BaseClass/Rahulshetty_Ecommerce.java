@@ -25,7 +25,7 @@ public class Rahulshetty_Ecommerce {
 		username.sendKeys("prabhusingh12296@gmail.com");
 		password.sendKeys("Prabhu123@");
 		loginbtn.click();
-		
+		// sleep for 5 second
 	Thread.sleep(5000);
 	driver.quit();
 	}
