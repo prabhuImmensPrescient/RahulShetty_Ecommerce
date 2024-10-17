@@ -28,7 +28,7 @@ public class Test11 {
 		password.sendKeys("Prabhu123@");
 		loginbtn.click();
 		System.out.println("Hello world");
-		System.out.println("Second print message");
+		
 	Thread.sleep(5000);
 	driver.quit();
 	}
